@@ -2,6 +2,9 @@
 #now lets learn about variables
 # datatypes 
 
+# this is to explain git hub for SAI.
+
+
 """
 Day 1 - topics covered 
 1 - print
